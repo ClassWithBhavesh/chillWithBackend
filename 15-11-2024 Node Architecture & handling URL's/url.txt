@@ -1,0 +1,8 @@
+https://www.youtube.com/results?search_query=abhinav+arora+roast
+https://www.youtube.com/results?search_query=deepak+kalal+roast
+
+/ = root path
+/about = about path
+/result/results/123 = nested path
+
+/user="Dheeraj"  =  query parameter

@@ -1,0 +1,16 @@
+{
+  "name": "starting-server-side",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "server": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "author": "Bhavesh Joshi",
+  "license": "ISC",
+  "description": "revising backend",
+  "dependencies": {
+    "nodemon": "^3.1.7",
+    "url": "^0.11.4"
+  }
+}
